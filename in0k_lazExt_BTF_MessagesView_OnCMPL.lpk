@@ -18,7 +18,7 @@
         <CompilerPath Value="$(CompPath)"/>
       </Other>
     </CompilerOptions>
-    <Version Major="1" Release="1"/>
+    <Version Major="1" Release="2"/>
     <Files Count="1">
       <Item1>
         <Filename Value="srcPKG\In0kLazEXTBTF_MessagesView_OnCMPL.pas"/>
