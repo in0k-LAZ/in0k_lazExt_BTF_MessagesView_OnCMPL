@@ -8,6 +8,7 @@
       <Version Value="11"/>
       <PathDelim Value="\"/>
       <SearchPaths>
+        <OtherUnitFiles Value="srcPKG"/>
         <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
       </SearchPaths>
       <Other>
@@ -17,22 +18,19 @@
         <CompilerPath Value="$(CompPath)"/>
       </Other>
     </CompilerOptions>
-    <Version Major="1"/>
+    <Version Major="1" Release="1"/>
     <Files Count="1">
       <Item1>
-        <Filename Value="srcPKG\tIn0kLazEXTBTF_MessagesView_OnCMPL.pas"/>
+        <Filename Value="srcPKG\In0kLazEXTBTF_MessagesView_OnCMPL.pas"/>
         <HasRegisterProc Value="True"/>
-        <UnitName Value="tIn0kLazEXTBTF_MessagesView_OnCMPL"/>
+        <UnitName Value="In0kLazEXTBTF_MessagesView_OnCMPL"/>
       </Item1>
     </Files>
     <Type Value="DesignTime"/>
-    <RequiredPkgs Count="2">
+    <RequiredPkgs Count="1">
       <Item1>
         <PackageName Value="IDEIntf"/>
       </Item1>
-      <Item2>
-        <PackageName Value="FCL"/>
-      </Item2>
     </RequiredPkgs>
     <UsageOptions>
       <UnitPath Value="$(PkgOutDir)"/>
