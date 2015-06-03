@@ -3,7 +3,7 @@
 *[Expert]* for *[Lazarus IDE]*.
 
 ###### Adds features to the IDE
-Window *"[Messages View]"* bring to front, when you start compilling or building project.
+Window *"[Messages View]"* bring to front, when you start compiling or building project.
 
 ### Installation
 Installation by standard scheme.
