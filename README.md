@@ -1,3 +1,10 @@
+### Attention!
+
+The **development** of this component **is frozen**, 
+because the functionality is duplicated in settings *IDEe*:
+
+`Tools` - `IDE Options` - `Messages Windows` - `Always draw selected..`
+
 ### Overview
 
 *[Expert]* for *[Lazarus IDE]*.
